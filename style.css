@@ -1,0 +1,21 @@
+img {
+    width: auto;
+    height: 200px;
+    border-radius: 10%;
+}
+h1{
+    text-align: center;
+}
+
+#card {
+    position: relative;
+    display: flex; /* [1] */
+    align-items: center; /* [2] */
+    background-color: #fff;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 7px;
+    box-shadow: 15px 15px 15px 15px rgba(0, 0, 0, 0.05);
+}
+
+
